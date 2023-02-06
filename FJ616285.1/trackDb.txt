@@ -1083,3 +1083,503 @@ autoScale on
 maxHeightPixels 128:128:16
 
 ##########
+	 
+track Mock-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Mock Flavo
+longLabel Mock Flavo
+	 
+track Mock-Flavo_FW
+parent Mock-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/Mock-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 Mock Flavo 
+shortLabel Exp1 Mock Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Mock-Flavo_RV
+parent Mock-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/Mock-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 Mock Flavo
+shortLabel Exp1 Mock Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 12h-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 12h Flavo
+longLabel 12h Flavo
+	 
+track 12h-Flavo_FW
+parent 12h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 12h Flavo 
+shortLabel Exp1 12h Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 12h-Flavo_RV
+parent 12h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 12h Flavo
+shortLabel Exp1 12h Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+	
+	 
+track 72h-PFA-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h PFA Flavo
+longLabel 72h PFA Flavo
+	 
+track 72h-PFA-Flavo_FW
+parent 72h-PFA-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 72h PFA Flavo
+shortLabel Exp1 72h PFA Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-PFA-Flavo_RV
+parent 72h-PFA-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 72h PFA Flavo
+shortLabel Exp1 72h PFA Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	
+	 
+track 72h-No-PFA-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h No PFA Flavo
+longLabel 72h No PFA Flavo
+	 
+track 72h-No-PFA-Flavo_FW
+parent 72h-No-PFA-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 72h No PFA Flavo
+shortLabel Exp1 72h No PFA Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-No-PFA-Flavo_RV
+parent 72h-No-PFA-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 72h No PFA Flavo
+shortLabel Exp1 72h No PFA Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track 12h-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 12h No Flavo
+longLabel 12h No Flavo
+	 
+track 12h-No-Flavo_FW
+parent 12h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-No-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 12h No Flavo
+shortLabel Exp1 12h No Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 12h-No-Flavo_RV
+parent 12h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-No-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 12h No Flavo
+shortLabel Exp1 12h No Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+
+track 72h-No-PFA-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h No PFA No Flavo
+longLabel 72h No PFA No Flavo
+	 
+track 72h-No-PFA-No-Flavo_FW
+parent 72h-No-PFA-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-No-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 72h No PFA No Flavo 
+shortLabel Exp1 72h No PFA No Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-No-PFA-No-Flavo_RV
+parent 72h-No-PFA-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 72h No PFA No Flavo
+shortLabel Exp1 72h No PFA No Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############	 
+
+track 72h-PFA-No-Flavo 
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h PFA No Flavo
+longLabel 72h PFA No Flavo
+	 
+track 72h-PFA-No-Flavo_FW
+parent 72h-PFA-No-Flavo 
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-No-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp1 72h PFA No Flavo
+shortLabel Exp1 72h PFA No Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-PFA-No-Flavo_RV
+parent 72h-PFA-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp1 72h PFA No Flavo
+shortLabel Exp1 72h PFA No Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track Mock-Flavo-5’
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Mock Flavo 5’
+longLabel Mock Flavo  5’
+	 
+track Mock-Flavo-5’_FW
+parent Mock-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/Mock-Flavo-dedup-FW-5prime-Towne.bw
+longLabel Exp1 Mock Flavo 5’
+shortLabel Exp1 Mock Flavo 5’
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Mock-Flavo-5’_RV
+parent Mock-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/Mock-Flavo-dedup-RV-5prime-Towne.bw
+longLabel Exp1 Mock Flavo 5’
+shortLabel Exp1 Mock Flavo 5’
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 12h-Flavo-5’
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 12h Flavo 5’
+longLabel 12h Flavo 5’
+	 
+track 12h-Flavo-5’_FW
+parent 12h-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-Flavo-dedup-FW-5prime-Towne.bw
+longLabel Exp1 12h Flavo 5’
+shortLabel Exp1 12h Flavo 5’
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 12h-Flavo-5’_RV
+parent 12h-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-Flavo-dedup-RV-5prime-Towne.bw
+longLabel Exp1 12h Flavo 5’
+shortLabel Exp1 12h Flavo 5’
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+	
+	 
+track 72h-PFA-Flavo-5’
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h PFA Flavo 5’
+longLabel 72h PFA Flavo 5’
+	 
+track 72h-PFA-Flavo-5’_FW
+parent 72h-PFA-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-Flavo-dedup-FW-5prime-Towne.bw
+longLabel Exp1 72h PFA Flavo 5’
+shortLabel Exp1 72h PFA Flavo 5’
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-PFA-Flavo-5’_RV
+parent 72h-PFA-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-Flavo-dedup-RV-5prime-Towne.bw
+longLabel Exp1 72h PFA Flavo 5’
+shortLabel Exp1 72h PFA Flavo 5’
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	
+	 
+track 72h-No-PFA-Flavo-5’
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h No PFA Flavo 5’
+longLabel 72h No PFA Flavo 5’
+	 
+track 72h-No-PFA-Flavo-5’_FW
+parent 72h-No-PFA-Flavo 5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-Flavo-dedup-FW-5prime-Towne.bw
+longLabel Exp1 72h No PFA Flavo 5’
+shortLabel Exp1 72h No PFA Flavo 5’
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-No-PFA-Flavo-5’_RV
+parent 72h-No-PFA-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-Flavo-dedup-RV-5prime-Towne.bw
+longLabel Exp1 72h No PFA Flavo 5’
+shortLabel Exp1 72h No PFA Flavo 5’
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track 12h-No-Flavo-5’
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 12h No Flavo 5’
+longLabel 12h No Flavo 5’
+	 
+track 12h-No-Flavo-5’_FW
+parent 12h-No-Flavo 5’
+type bigWig 0 1000 5’
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-No-Flavo-dedup-FW-5prime-Towne.bw
+longLabel Exp1 12h No Flavo 5’
+shortLabel Exp1 12h No Flavo 5’
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 12h-No-Flavo-5’_RV
+parent 12h-No-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-No-Flavo-dedup-RV-5prime-Towne.bw
+longLabel Exp1 12h No Flavo 5’
+shortLabel Exp1 12h No Flavo 5’
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+
+track 72h-No-PFA-No-Flavo-5’
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h No PFA No Flavo 5’
+longLabel 72h No PFA No Flavo 5’
+	 
+track 72h-No-PFA-No-Flavo-5’_FW
+parent 72h-No-PFA-No-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-No-Flavo-dedup-FW-5prime-Towne.bw
+longLabel Exp1 72h No PFA No Flavo 5’
+shortLabel Exp1 72h No PFA No Flavo 5’
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-No-PFA-No-Flavo-5’_RV
+parent 72h-No-PFA-No-Flavo-5’
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-No-Flavo-dedup-RV-5prime-Towne.bw
+longLabel Exp1 72h No PFA No Flavo 5’
+shortLabel Exp1 72h No PFA No Flavo 5’
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############	 
