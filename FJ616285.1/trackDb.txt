@@ -1097,8 +1097,8 @@ parent Mock-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/Mock-Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp1 Mock Flavo 
-shortLabel Exp1 Mock Flavo
+longLabel Exp1 D-NT2 Mock Flavo 
+shortLabel Exp1 D-NT2 Mock Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -1111,8 +1111,8 @@ parent Mock-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/Mock-Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp1 Mock Flavo
-shortLabel Exp1 Mock Flavo
+longLabel Exp1 D-NT2 Mock Flavo
+shortLabel Exp1 D-NT2 Mock Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -1135,8 +1135,8 @@ parent 12h-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp1 12h Flavo 
-shortLabel Exp1 12h Flavo
+longLabel Exp1 12h D-NT2 Flavo 
+shortLabel Exp1 12h D-NT2 Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -1149,8 +1149,8 @@ parent 12h-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp1 12h Flavo
-shortLabel Exp1 12h Flavo
+longLabel Exp1 12h D-NT2 Flavo
+shortLabel Exp1 12h D-NT2 Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -1175,8 +1175,8 @@ parent 72h-PFA-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp1 72h PFA Flavo
-shortLabel Exp1 72h PFA Flavo
+longLabel Exp1 72h D-NT2 PFA Flavo
+shortLabel Exp1 72h D-NT2 PFA Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -1189,8 +1189,8 @@ parent 72h-PFA-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp1 72h PFA Flavo
-shortLabel Exp1 72h PFA Flavo
+longLabel Exp1 72h D-NT2 PFA Flavo
+shortLabel Exp1 72h D-NT2 PFA Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -1214,8 +1214,8 @@ parent 72h-No-PFA-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp1 72h No PFA Flavo
-shortLabel Exp1 72h No PFA Flavo
+longLabel Exp1 72h D-NT2 No PFA Flavo
+shortLabel Exp1 72h D-NT2 No PFA Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -1228,8 +1228,8 @@ parent 72h-No-PFA-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp1 72h No PFA Flavo
-shortLabel Exp1 72h No PFA Flavo
+longLabel Exp1 72h D-NT2 No PFA Flavo
+shortLabel Exp1 72h D-NT2 No PFA Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -1252,8 +1252,8 @@ parent 12h-No-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-No-Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp1 12h No Flavo
-shortLabel Exp1 12h No Flavo
+longLabel Exp1 12h D-NT2 No Flavo
+shortLabel Exp1 12h D-NT2 No Flavo
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -1266,8 +1266,8 @@ parent 12h-No-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-No-Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp1 12h No Flavo
-shortLabel Exp1 12h No Flavo
+longLabel Exp1 12h D-NT2 No Flavo
+shortLabel Exp1 12h D-NT2 No Flavo
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -1290,8 +1290,8 @@ parent 72h-No-PFA-No-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-No-Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp1 72h No PFA No Flavo 
-shortLabel Exp1 72h No PFA No Flavo
+longLabel Exp1 72h D-NT2 No PFA No Flavo 
+shortLabel Exp1 72h D-NT2 No PFA No Flavo
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -1304,8 +1304,8 @@ parent 72h-No-PFA-No-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp1 72h No PFA No Flavo
-shortLabel Exp1 72h No PFA No Flavo
+longLabel Exp1 72h D-NT2 No PFA No Flavo
+shortLabel Exp1 72h D-NT2 No PFA No Flavo
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -1328,8 +1328,8 @@ parent 72h-PFA-No-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-No-Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp1 72h PFA No Flavo
-shortLabel Exp1 72h PFA No Flavo
+longLabel Exp1 72h D-NT2 PFA No Flavo
+shortLabel Exp1 72h D-NT2 PFA No Flavo
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -1342,8 +1342,8 @@ parent 72h-PFA-No-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-No-Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp1 72h PFA No Flavo
-shortLabel Exp1 72h PFA No Flavo
+longLabel Exp1 72h D-NT2 PFA No Flavo
+shortLabel Exp1 72h D-NT2 PFA No Flavo
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -1366,8 +1366,8 @@ parent Mock-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/Mock-Flavo-dedup-FW-5prime-Towne.bw
-longLabel Exp1 Mock Flavo 5’
-shortLabel Exp1 Mock Flavo 5’
+longLabel Exp1 Mock D-NT2 Flavo 5’
+shortLabel Exp1 Mock D-NT2 Flavo 5’
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -1380,8 +1380,8 @@ parent Mock-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/Mock-Flavo-dedup-RV-5prime-Towne.bw
-longLabel Exp1 Mock Flavo 5’
-shortLabel Exp1 Mock Flavo 5’
+longLabel Exp1 Mock D-NT2 Flavo 5’
+shortLabel Exp1 Mock D-NT2 Flavo 5’
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -1404,8 +1404,8 @@ parent 12h-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-Flavo-dedup-FW-5prime-Towne.bw
-longLabel Exp1 12h Flavo 5’
-shortLabel Exp1 12h Flavo 5’
+longLabel Exp1 12h D-NT2 Flavo 5’
+shortLabel Exp1 12h D-NT2 Flavo 5’
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -1418,8 +1418,8 @@ parent 12h-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-Flavo-dedup-RV-5prime-Towne.bw
-longLabel Exp1 12h Flavo 5’
-shortLabel Exp1 12h Flavo 5’
+longLabel Exp1 12h D-NT2 Flavo 5’
+shortLabel Exp1 12h D-NT2 Flavo 5’
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -1444,8 +1444,8 @@ parent 72h-PFA-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-Flavo-dedup-FW-5prime-Towne.bw
-longLabel Exp1 72h PFA Flavo 5’
-shortLabel Exp1 72h PFA Flavo 5’
+longLabel Exp1 72h D-NT2 PFA Flavo 5’
+shortLabel Exp1 72h D-NT2 PFA Flavo 5’
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -1458,8 +1458,8 @@ parent 72h-PFA-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-PFA-Flavo-dedup-RV-5prime-Towne.bw
-longLabel Exp1 72h PFA Flavo 5’
-shortLabel Exp1 72h PFA Flavo 5’
+longLabel Exp1 72h D-NT2 PFA Flavo 5’
+shortLabel Exp1 72h D-NT2 PFA Flavo 5’
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -1483,8 +1483,8 @@ parent 72h-No-PFA-Flavo 5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-Flavo-dedup-FW-5prime-Towne.bw
-longLabel Exp1 72h No PFA Flavo 5’
-shortLabel Exp1 72h No PFA Flavo 5’
+longLabel Exp1 72h D-NT2 No PFA Flavo 5’
+shortLabel Exp1 72h D-NT2 No PFA Flavo 5’
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -1497,8 +1497,8 @@ parent 72h-No-PFA-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-Flavo-dedup-RV-5prime-Towne.bw
-longLabel Exp1 72h No PFA Flavo 5’
-shortLabel Exp1 72h No PFA Flavo 5’
+longLabel Exp1 72h D-NT2 No PFA Flavo 5’
+shortLabel Exp1 72h D-NT2 No PFA Flavo 5’
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -1521,8 +1521,8 @@ parent 12h-No-Flavo 5’
 type bigWig 0 1000 5’
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-No-Flavo-dedup-FW-5prime-Towne.bw
-longLabel Exp1 12h No Flavo 5’
-shortLabel Exp1 12h No Flavo 5’
+longLabel Exp1 12h D-NT2 No Flavo 5’
+shortLabel Exp1 12h D-NT2 No Flavo 5’
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -1535,8 +1535,8 @@ parent 12h-No-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/12h-No-Flavo-dedup-RV-5prime-Towne.bw
-longLabel Exp1 12h No Flavo 5’
-shortLabel Exp1 12h No Flavo 5’
+longLabel Exp1 12h D-NT2 No Flavo 5’
+shortLabel Exp1 12h D-NT2 No Flavo 5’
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -1559,8 +1559,8 @@ parent 72h-No-PFA-No-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-No-Flavo-dedup-FW-5prime-Towne.bw
-longLabel Exp1 72h No PFA No Flavo 5’
-shortLabel Exp1 72h No PFA No Flavo 5’
+longLabel Exp1 72h D-NT2 No PFA No Flavo 5’
+shortLabel Exp1 72h D-NT2 No PFA No Flavo 5’
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -1573,8 +1573,8 @@ parent 72h-No-PFA-No-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp1/72h-No-PFA-No-Flavo-dedup-RV-5prime-Towne.bw
-longLabel Exp1 72h No PFA No Flavo 5’
-shortLabel Exp1 72h No PFA No Flavo 5’
+longLabel Exp1 72h D-NT2 No PFA No Flavo 5’
+shortLabel Exp1 72h D-NT2 No PFA No Flavo 5’
 negateValues on
 color 113,35,124
 altColor 113,35,124
