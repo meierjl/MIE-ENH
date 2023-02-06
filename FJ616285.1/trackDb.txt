@@ -22,8 +22,8 @@ parent WT
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/WT-No-Flavo-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 WT 
-shortLabel 96h D-NT2 WT 
+longLabel Exp2 96h D-NT2 WT 
+shortLabel Exp2 96h D-NT2 WT 
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -36,8 +36,8 @@ parent WT
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/WT-No-Flavo-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 WT 
-shortLabel 96h D-NT2 WT 
+longLabel Exp2 96h D-NT2 WT 
+shortLabel Exp2 96h D-NT2 WT 
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -60,8 +60,8 @@ parent N1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/N1-No-Flavo-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 N1
-shortLabel 96h D-NT2 N1
+longLabel Exp2 96h D-NT2 N1
+shortLabel Exp2 96h D-NT2 N1
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -74,8 +74,8 @@ parent N1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/N1-No-Flavo-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 N1
-shortLabel 96h D-NT2 N1
+longLabel Exp2 96h D-NT2 N1
+shortLabel Exp2 96h D-NT2 N1
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -98,8 +98,8 @@ parent NB
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/N2-No-Flavo-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 NB
-shortLabel 96h D-NT2 NB
+longLabel Exp2 96h D-NT2 NB
+shortLabel Exp2 96h D-NT2 NB
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -112,8 +112,8 @@ parent NB
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/N2-No-Flavo-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 NB
-shortLabel 96h D-NT2 NB
+longLabel Exp2 96h D-NT2 NB
+shortLabel Exp2 96h D-NT2 NB
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -136,8 +136,8 @@ parent N2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/NS2-No-Flavo-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 N2
-shortLabel 96h D-NT2 N2
+longLabel Exp2 96h D-NT2 N2
+shortLabel Exp2 96h D-NT2 N2
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -150,8 +150,8 @@ parent N2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/NS2-No-Flavo-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 N2
-shortLabel 96h D-NT2 N2
+longLabel Exp2 96h D-NT2 N2
+shortLabel Exp2 96h D-NT2 N2
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -174,8 +174,8 @@ parent WT-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/WT-Flavo-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 WT Flavo
-shortLabel 96h D-NT2 WT Flavo
+longLabel Exp2 96h D-NT2 WT Flavo
+shortLabel Exp2 96h D-NT2 WT Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -188,8 +188,8 @@ parent WT-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/WT-Flavo-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 WT Flavo
-shortLabel 96h D-NT2 WT Flavo
+longLabel Exp2 96h D-NT2 WT Flavo
+shortLabel Exp2 96h D-NT2 WT Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -212,8 +212,8 @@ parent N1-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/N1-Flavo-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 N1 Flavo
-shortLabel 96h D-NT2 N1 Flavo
+longLabel Exp2 96h D-NT2 N1 Flavo
+shortLabel Exp2 96h D-NT2 N1 Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -226,8 +226,8 @@ parent N1-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/N1-Flavo-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 N1 Flavo
-shortLabel 96h D-NT2 N1 Flavo
+longLabel Exp2 96h D-NT2 N1 Flavo
+shortLabel Exp2 96h D-NT2 N1 Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -250,8 +250,8 @@ parent NB-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/N2-Flavo-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 NB Flavo
-shortLabel 96h D-NT2 NB Flavo
+longLabel Exp2 96h D-NT2 NB Flavo
+shortLabel Exp2 96h D-NT2 NB Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -264,8 +264,8 @@ parent NB-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/N2-Flavo-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 NB Flavo
-shortLabel 96h D-NT2 NB Flavo
+longLabel Exp2 96h D-NT2 NB Flavo
+shortLabel Exp2 96h D-NT2 NB Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -288,8 +288,8 @@ parent N2-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/NS2-Flavo-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 N2 Flavo
-shortLabel 96h D-NT2 N2 Flavo
+longLabel Exp2 96h D-NT2 N2 Flavo
+shortLabel Exp2 96h D-NT2 N2 Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -302,8 +302,8 @@ parent N2-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/NS2-Flavo-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 N2 Flavo
-shortLabel 96h D-NT2 N2 Flavo
+longLabel Exp2 96h D-NT2 N2 Flavo
+shortLabel Exp2 96h D-NT2 N2 Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -326,8 +326,8 @@ parent IE2F-Ctrl
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/IE2F-No-Flavo-Ctrl-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 IE2F Ctrl
-shortLabel 96h D-NT2 IE2F Ctrl
+longLabel Exp2 96h D-NT2 IE2F Ctrl
+shortLabel Exp2 96h D-NT2 IE2F Ctrl
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -340,8 +340,8 @@ parent IE2F-Ctrl
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/IE2F-No-Flavo-Ctrl-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 IE2F Ctrl
-shortLabel 96h D-NT2 IE2F Ctrl
+longLabel Exp2 96h D-NT2 IE2F Ctrl
+shortLabel Exp2 96h D-NT2 IE2F Ctrl
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -364,8 +364,8 @@ parent IE2F-dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/IE2F-No-Flavo-dTAG-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 IE2F dTAG
-shortLabel 96h D-NT2 IE2F dTAG
+longLabel Exp2 96h D-NT2 IE2F dTAG
+shortLabel Exp2 96h D-NT2 IE2F dTAG
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -378,8 +378,8 @@ parent IE2F-dTAG
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/IE2F-No-Flavo-dTAG-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 IE2F dTAG
-shortLabel 96h D-NT2 IE2F dTAG
+longLabel Exp2 96h D-NT2 IE2F dTAG
+shortLabel Exp2 96h D-NT2 IE2F dTAG
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -402,8 +402,8 @@ parent IE2F-Ctrl-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/IE2F-Flavo-Ctrl-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 IE2F Ctrl Flavo
-shortLabel 96h D-NT2 IE2F Ctrl Flavo
+longLabel Exp2 96h D-NT2 IE2F Ctrl Flavo
+shortLabel Exp2 96h D-NT2 IE2F Ctrl Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -416,8 +416,8 @@ parent IE2F-Ctrl-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/IE2F-Flavo-Ctrl-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 IE2F Ctrl Flavo
-shortLabel 96h D-NT2 IE2F Ctrl Flavo
+longLabel Exp2 96h D-NT2 IE2F Ctrl Flavo
+shortLabel Exp2 96h D-NT2 IE2F Ctrl Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -440,8 +440,8 @@ parent IE2F-dTAG-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/IE2F-Flavo-dTAG-dedup-FW-FJ616285.1.bw
-longLabel 96h D-NT2 IE2F dTAG Flavo
-shortLabel 96h D-NT2 IE2F dTAG Flavo
+longLabel Exp2 96h D-NT2 IE2F dTAG Flavo
+shortLabel Exp2 96h D-NT2 IE2F dTAG Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -454,8 +454,8 @@ parent IE2F-dTAG-Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/IE2F-Flavo-dTAG-dedup-RV-FJ616285.1.bw
-longLabel 96h D-NT2 IE2F dTAG Flavo
-shortLabel 96h D-NT2 IE2F dTAG Flavo
+longLabel Exp2 96h D-NT2 IE2F dTAG Flavo
+shortLabel Exp2 96h D-NT2 IE2F dTAG Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
