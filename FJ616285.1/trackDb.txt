@@ -1369,8 +1369,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 Mock D-NT2 Flavo 5
 shortLabel Exp1 Mock D-NT2 Flavo 5
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1383,8 +1383,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 Mock D-NT2 Flavo 5
 shortLabel Exp1 Mock D-NT2 Flavo 5
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1407,8 +1407,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 12h D-NT2 Flavo 5
 shortLabel Exp1 12h D-NT2 Flavo 5
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1421,8 +1421,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 12h D-NT2 Flavo 5
 shortLabel Exp1 12h D-NT2 Flavo 5
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1447,8 +1447,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 72h D-NT2 PFA Flavo 5
 shortLabel Exp1 72h D-NT2 PFA Flavo 5
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1461,8 +1461,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 72h D-NT2 PFA Flavo 5
 shortLabel Exp1 72h D-NT2 PFA Flavo 5
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1486,8 +1486,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 72h D-NT2 No PFA Flavo 5
 shortLabel Exp1 72h D-NT2 No PFA Flavo 5
 negateValues ofF
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1500,8 +1500,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 72h D-NT2 No PFA Flavo 5
 shortLabel Exp1 72h D-NT2 No PFA Flavo 5
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1524,8 +1524,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 12h D-NT2 No Flavo 5
 shortLabel Exp1 12h D-NT2 No Flavo 5
 negateValues off
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1538,8 +1538,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 12h D-NT2 No Flavo 5
 shortLabel Exp1 12h D-NT2 No Flavo 5
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1562,8 +1562,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 72h D-NT2 No PFA No Flavo 5
 shortLabel Exp1 72h D-NT2 No PFA No Flavo 5
 negateValues off
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -1576,8 +1576,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel Exp1 72h D-NT2 No PFA No Flavo 5
 shortLabel Exp1 72h D-NT2 No PFA No Flavo 5
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
