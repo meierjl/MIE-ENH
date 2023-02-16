@@ -812,6 +812,83 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+
+	 
+track WT-No-GFP
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel WT No GFP
+longLabel WT No GFP
+	 
+track WT-No-GFP_FW
+parent WT-No-GFP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/WT-No-GFP-No-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp2 96h D-NT2 WT No GFP 
+shortLabel Exp2 96h D-NT2 WT No GFP
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track WT-No-GFP_RV
+parent WT-No-GFP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/WT-No-GFP-No-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp2 96h D-NT2 WT No GFP
+shortLabel Exp2 96h D-NT2 WT No GFP
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track WT-No-GFP-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel WT No GFP Flavo
+longLabel WT No GFP Flavo
+	 
+track WT-No-GFP-Flavo_FW
+parent WT-No-GFP-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/WT-No-GFP-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp2 96h D-NT2 WT No GFP Flavo
+shortLabel Exp2 96h D-NT2 WT No GFP Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track WT-No-GFP-Flavo_RV
+parent WT-No-GFP-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-Seq/WT-No-GFP-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp2 96h D-NT2 WT No GFP Flavo
+shortLabel Exp2 96h D-NT2 WT No GFP Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
 	 
 track IE2F-Ctrl
 compositeTrack on
