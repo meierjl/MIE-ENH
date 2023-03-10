@@ -2190,7 +2190,45 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-###		 
+###	
+
+track IE2-Flavo-Ctrl-5
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel IE2 Flavo Ctrl 5
+longLabel IE2 Flavo Ctrl 5
+	 
+track IE2-Flavo-Ctrl-5_FW
+parent IE2-Flavo-Ctrl-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/HFF-PRO-Seq/Towne-96h-IE2-Flavo-dedup-FW-FJ616285.1-5.bw
+longLabel 96h HFF WT Ctrl 5 Prime
+shortLabel 96h HFF WT Ctrl 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2-Flavo-Ctrl-5_RV
+parent IE2-Flavo-Ctrl-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/HFF-PRO-Seq/Towne-96h-IE2-Flavo-dedup-RV-FJ616285.1-5.bw
+longLabel 96h HFF WT Ctrl 5 Prime
+shortLabel 96h HFF WT Ctrl 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
 	 
 track Exp1_96h_UL87HF_Flavo
 compositeTrack on
