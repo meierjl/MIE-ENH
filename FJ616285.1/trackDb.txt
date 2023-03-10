@@ -12,7 +12,7 @@ visibility pack
 track Mock-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 2
 visibility full
 shortLabel Mock Flavo
 longLabel Mock Flavo
@@ -50,7 +50,7 @@ maxHeightPixels 128:128:16
 track 12h-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 1
 visibility full
 shortLabel 12h Flavo
 longLabel 12h Flavo
@@ -90,7 +90,7 @@ maxHeightPixels 128:128:16
 track 72h-PFA-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 1
 visibility full
 shortLabel 72h PFA Flavo
 longLabel 72h PFA Flavo
@@ -129,7 +129,7 @@ maxHeightPixels 128:128:16
 track 72h-No-PFA-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 1
 visibility full
 shortLabel 72h No PFA Flavo
 longLabel 72h No PFA Flavo
@@ -167,7 +167,7 @@ maxHeightPixels 128:128:16
 track 12h-No-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 2
 visibility full
 shortLabel 12h No Flavo
 longLabel 12h No Flavo
@@ -205,7 +205,7 @@ maxHeightPixels 128:128:16
 track 72h-No-PFA-No-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 2
 visibility full
 shortLabel 72h No PFA No Flavo
 longLabel 72h No PFA No Flavo
@@ -243,7 +243,7 @@ maxHeightPixels 128:128:16
 track 72h-PFA-No-Flavo 
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 2
 visibility full
 shortLabel 72h PFA No Flavo
 longLabel 72h PFA No Flavo
@@ -281,7 +281,7 @@ maxHeightPixels 128:128:16
 track Mock-Flavo-5’
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 3
 visibility full
 shortLabel Mock Flavo 5’
 longLabel Mock Flavo  5’
@@ -319,7 +319,7 @@ maxHeightPixels 128:128:16
 track 12h-Flavo-5’
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 3
 visibility full
 shortLabel 12h Flavo 5’
 longLabel 12h Flavo 5’
@@ -359,7 +359,7 @@ maxHeightPixels 128:128:16
 track 72h-PFA-Flavo-5’
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 3
 visibility full
 shortLabel 72h PFA Flavo 5’
 longLabel 72h PFA Flavo 5’
@@ -398,7 +398,7 @@ maxHeightPixels 128:128:16
 track 72h-No-PFA-Flavo-5’
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 3
 visibility full
 shortLabel 72h No PFA Flavo 5’
 longLabel 72h No PFA Flavo 5’
@@ -436,7 +436,7 @@ maxHeightPixels 128:128:16
 track 12h-No-Flavo-5’
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 3
 visibility full
 shortLabel 12h No Flavo 5’
 longLabel 12h No Flavo 5’
@@ -474,7 +474,7 @@ maxHeightPixels 128:128:16
 track 72h-No-PFA-No-Flavo-5’
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 3
 visibility full
 shortLabel 72h No PFA No Flavo 5’
 longLabel 72h No PFA No Flavo 5’
@@ -512,7 +512,7 @@ maxHeightPixels 128:128:16
 track WT
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 4
 visibility full
 shortLabel WT 
 longLabel WT 
@@ -550,7 +550,7 @@ maxHeightPixels 128:128:16
 track N1
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 4
 visibility full
 shortLabel N1
 longLabel N1 
@@ -588,7 +588,7 @@ maxHeightPixels 128:128:16
 track NB
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 4
 visibility full
 shortLabel NB
 longLabel NB
@@ -626,7 +626,7 @@ maxHeightPixels 128:128:16
 track N2
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 4
 visibility full
 shortLabel N2
 longLabel N2
@@ -664,7 +664,7 @@ maxHeightPixels 128:128:16
 track WT-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 5
 visibility full
 shortLabel WT Flavo
 longLabel WT Flavo
@@ -702,7 +702,7 @@ maxHeightPixels 128:128:16
 track N1-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 5
 visibility full
 shortLabel N1 Flavo
 longLabel N1 Flavo
@@ -740,7 +740,7 @@ maxHeightPixels 128:128:16
 track NB-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 5
 visibility full
 shortLabel NB Flavo
 longLabel NB Flavo
@@ -778,7 +778,7 @@ maxHeightPixels 128:128:16
 track N2-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 5
 visibility full
 shortLabel N2 Flavo
 longLabel N2 Flavo
@@ -817,7 +817,7 @@ maxHeightPixels 128:128:16
 track WT-No-GFP
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 5
 visibility full
 shortLabel WT No GFP
 longLabel WT No GFP
@@ -855,7 +855,7 @@ maxHeightPixels 128:128:16
 track WT-No-GFP-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 5
 visibility full
 shortLabel WT No GFP Flavo
 longLabel WT No GFP Flavo
@@ -893,7 +893,7 @@ maxHeightPixels 128:128:16
 track WT-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel WT 5
 longLabel WT 5
@@ -931,7 +931,7 @@ maxHeightPixels 128:128:16
 track N1-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel N1 5
 longLabel N1 5
@@ -969,7 +969,7 @@ maxHeightPixels 128:128:16
 track NB-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel NB 5
 longLabel NB 5
@@ -1007,7 +1007,7 @@ maxHeightPixels 128:128:16
 track N2-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel N2 5
 longLabel N2 5
@@ -1045,7 +1045,7 @@ maxHeightPixels 128:128:16
 track WT-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel WT Flavo 5
 longLabel WT Flavo 5
@@ -1083,7 +1083,7 @@ maxHeightPixels 128:128:16
 track N1-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel N1 Flavo 5
 longLabel N1 Flavo 5
@@ -1121,7 +1121,7 @@ maxHeightPixels 128:128:16
 track NB-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel NB Flavo 5
 longLabel NB Flavo 5
@@ -1159,7 +1159,7 @@ maxHeightPixels 128:128:16
 track N2-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel N2 Flavo 5
 longLabel N2 Flavo 5
@@ -1197,7 +1197,7 @@ maxHeightPixels 128:128:16
 track WT-No-GFP-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel WT No GFP 5
 longLabel WT No GFP 5
@@ -1235,7 +1235,7 @@ maxHeightPixels 128:128:16
 track WT-No-GFP-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 6
 visibility full
 shortLabel WT No GFP Flavo 5
 longLabel WT No GFP Flavo 5
@@ -1274,7 +1274,7 @@ maxHeightPixels 128:128:16
 track IE2F-Ctrl
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 7
 visibility full
 shortLabel IE2F Ctrl
 longLabel IE2F Ctrl
@@ -1312,7 +1312,7 @@ maxHeightPixels 128:128:16
 track IE2F-dTAG
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 7
 visibility full
 shortLabel IE2F dTAG
 longLabel IE2F dTAG
@@ -1350,7 +1350,7 @@ maxHeightPixels 128:128:16
 track IE2F-Ctrl-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 7
 visibility full
 shortLabel IE2F Ctrl Flavo
 longLabel IE2F Ctrl Flavo
@@ -1388,7 +1388,7 @@ maxHeightPixels 128:128:16
 track IE2F-dTAG-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 7
 visibility full
 shortLabel IE2F dTAG Flavo
 longLabel IE2F dTAG Flavo
@@ -1426,7 +1426,7 @@ maxHeightPixels 128:128:16
 track UL87HF-Ctrl
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 7
 visibility full
 shortLabel UL87HF Ctrl
 longLabel UL87HF Ctrl
@@ -1464,7 +1464,7 @@ maxHeightPixels 128:128:16
 track UL87HF-dTAG
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 7
 visibility full
 shortLabel UL87HF dTAG
 longLabel UL87HF dTAG
@@ -1502,7 +1502,7 @@ maxHeightPixels 128:128:16
 track UL87HF-Ctrl-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel UL87HF Ctrl Flavo
 longLabel UL87HF Ctrl Flavo
@@ -1540,7 +1540,7 @@ maxHeightPixels 128:128:16
 track UL87HF-dTAG-Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel UL87HF dTAG Flavo
 longLabel UL87HF dTAG Flavo
@@ -1578,7 +1578,7 @@ maxHeightPixels 128:128:16
 track IE2F-Ctrl-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel IE2F Ctrl 5
 longLabel IE2F Ctrl 5
@@ -1616,7 +1616,7 @@ maxHeightPixels 128:128:16
 track IE2F-dTAG-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel IE2F dTAG 5
 longLabel IE2F dTAG 5
@@ -1654,7 +1654,7 @@ maxHeightPixels 128:128:16
 track IE2F-Ctrl-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel IE2F Ctrl Flavo 5
 longLabel IE2F Ctrl Flavo 5
@@ -1692,7 +1692,7 @@ maxHeightPixels 128:128:16
 track IE2F-dTAG-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel IE2F dTAG Flavo 5
 longLabel IE2F dTAG Flavo 5
@@ -1730,7 +1730,7 @@ maxHeightPixels 128:128:16
 track UL87HF-Ctrl-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel UL87HF Ctrl 5
 longLabel UL87HF Ctrl 5
@@ -1768,7 +1768,7 @@ maxHeightPixels 128:128:16
 track UL87HF-dTAG-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel UL87HF dTAG 5
 longLabel UL87HF dTAG 5
@@ -1806,7 +1806,7 @@ maxHeightPixels 128:128:16
 track UL87HF-Ctrl-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel UL87HF Ctrl Flavo 5
 longLabel UL87HF Ctrl Flavo 5
@@ -1844,7 +1844,7 @@ maxHeightPixels 128:128:16
 track UL87HF-dTAG-Flavo-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 8
 visibility full
 shortLabel UL87HF dTAG Flavo 5
 longLabel UL87HF dTAG Flavo 5
@@ -1883,7 +1883,7 @@ track DMSO_CMV_WT
 compositeTrack on hide
 type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
-priority 1
+priority 9
 visibility full
 shortLabel 96h IE2
 longLabel PRO-Seq in DMSO-treated HFF infected 4 hours with HCMV strain Towne
@@ -1922,7 +1922,7 @@ track DMSO_CMV_WT_dFK
 compositeTrack on hide
 type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
-priority 2
+priority 9
 visibility full
 shortLabel 96h IE2 dTAG 
 longLabel PRO-Seq in HFF infected 96 hours with HCMV strain Towne and treated for last 6 hours with dFK
@@ -1961,7 +1961,7 @@ track DMSO_CMV_IE2_FKBP
 compositeTrack on hide
 type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
-priority 3
+priority 9
 visibility full
 shortLabel 96h IE2F
 longLabel PRO-Seq in DMSO-treated HFF infected 96 hours with HCMV strain Towne-IE2-FKBP
@@ -2001,7 +2001,7 @@ track DMSO_CMV_IE2_FKBP_dFK
 compositeTrack on hide
 type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
-priority 4
+priority 9
 visibility full
 shortLabel 96h IE2F dTAG
 longLabel RO-Seq in DMSO-treated HFF infected 96 hours with HCMV strain Towne-IE2-FKBP
@@ -2040,7 +2040,7 @@ track Flavo_CMV_WT
 compositeTrack on hide
 type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
-priority 5
+priority 9
 visibility full
 shortLabel 96h IE2 Flavo
 longLabel PRO-Seq in Flavo-treated HFF infected 96 hours with HCMV strain Towne
@@ -2079,7 +2079,7 @@ track Flavo_CMV_WT_dFK
 compositeTrack on hide
 type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
-priority 6
+priority 9
 visibility full
 shortLabel 96h IE2 Flavo dTAG 
 longLabel PRO-Seq in HFF infected 96 hours with HCMV strain Towne and treated for last 6 hours with dFK
@@ -2118,7 +2118,7 @@ track Flavo_CMV_IE2_FKBP
 compositeTrack on hide
 type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
-priority 7
+priority 9
 visibility full
 shortLabel 96h IE2F Flavo
 longLabel PRO-Seq in Flavo-treated HFF infected 96 hours with HCMV strain Towne-IE2-FKBP
@@ -2157,7 +2157,7 @@ track Flavo_CMV_IE2_FKBP_dFK
 compositeTrack on hide
 type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
-priority 8
+priority 9
 visibility full
 shortLabel 96h IE2F Flavo dTAG
 longLabel PRO-Seq in Flavo-treated HFF infected 96 hours with HCMV strain Towne-IE2-FKBP
@@ -2195,7 +2195,7 @@ maxHeightPixels 128:128:16
 track IE2-Flavo-Ctrl-5
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 9
 visibility full
 shortLabel IE2 Flavo Ctrl 5
 longLabel IE2 Flavo Ctrl 5
@@ -2233,7 +2233,7 @@ maxHeightPixels 128:128:16
 track Exp1_96h_UL87HF_Flavo
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 9
 visibility full
 shortLabel Exp1 96h UL87HF Flavo
 longLabel Exp1 96h UL87HF Flavo
@@ -2272,7 +2272,7 @@ maxHeightPixels 128:128:16
 track Exp1_96h_UL87HF_Flavo_dTAG
 compositeTrack on
 type bigWig 0 1000
-priority 9.5
+priority 9
 visibility full
 shortLabel Exp1 96h UL87HF Flavo dTAG
 longLabel Exp1 96h UL87HF Flavo dTAG
@@ -2312,7 +2312,7 @@ track UL87-No-dTAG-Flavo-Exp2-5
 compositeTrack on 
 type bigWig 0 1000
 group proseq-procap
-priority 11
+priority 10
 visibility full
 shortLabel UL87-No-dTAG-Flavo-Exp2-5
 longLabel UL87-No-dTAG-Flavo-Exp2-5
@@ -2351,7 +2351,7 @@ track UL87F-6h-dTag-Flavo-Exp2-5
 compositeTrack on 
 type bigWig 0 1000
 group proseq-procap
-priority 11
+priority 10
 visibility full
 shortLabel UL87F-6h-dTag-Flavo-Exp2-5
 longLabel UL87F-6h-dTag-Flavo-Exp2-5
