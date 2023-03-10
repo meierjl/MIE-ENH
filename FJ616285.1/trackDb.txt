@@ -2205,8 +2205,8 @@ parent IE2-Flavo-Ctrl-5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/HFF-PRO-Seq/Towne-96h-IE2-Flavo-dedup-FW-FJ616285.1-5.bw
-longLabel 96h HFF WT Ctrl 5 Prime
-shortLabel 96h HFF WT Ctrl 5 Prime
+longLabel 96h HFF WT Flavo 5 Prime
+shortLabel 96h HFF WT Flavo 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -2219,8 +2219,8 @@ parent IE2-Flavo-Ctrl-5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/HFF-PRO-Seq/Towne-96h-IE2-Flavo-dedup-RV-FJ616285.1-5.bw
-longLabel 96h HFF WT Ctrl 5 Prime
-shortLabel 96h HFF WT Ctrl 5 Prime
+longLabel 96h HFF WT Flavo 5 Prime
+shortLabel 96h HFF WT Flavo 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
