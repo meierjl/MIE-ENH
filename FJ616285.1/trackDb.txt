@@ -1732,7 +1732,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel xp3 96h D-NT2 UL87HF Ctrl 5
+shortLabel Ep3 96h D-NT2 UL87HF Ctrl 5
 longLabel UL87HF Ctrl 5
 	 
 track UL87HF-Ctrl-5_FW
