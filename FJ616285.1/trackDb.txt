@@ -14,7 +14,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 2
 visibility full
-shortLabel Mock Flavo
+shortLabel Exp1 D-NT2 Mock Flavo 
 longLabel Mock Flavo
 	 
 track Mock-Flavo_FW
@@ -52,7 +52,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 1
 visibility full
-shortLabel 12h Flavo
+shortLabel Exp1 12h D-NT2 Flavo 
 longLabel 12h Flavo
 	 
 track 12h-Flavo_FW
@@ -92,7 +92,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 1
 visibility full
-shortLabel 72h PFA Flavo
+shortLabel Exp1 72h D-NT2 PFA Flavo
 longLabel 72h PFA Flavo
 	 
 track 72h-PFA-Flavo_FW
@@ -131,7 +131,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 1
 visibility full
-shortLabel 72h No PFA Flavo
+shortLabel Exp1 72h D-NT2 No PFA Flavo
 longLabel 72h No PFA Flavo
 	 
 track 72h-No-PFA-Flavo_FW
@@ -169,7 +169,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 2
 visibility full
-shortLabel 12h No Flavo
+shortLabel Exp1 12h D-NT2 No Flavo
 longLabel 12h No Flavo
 	 
 track 12h-No-Flavo_FW
@@ -207,7 +207,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 2
 visibility full
-shortLabel 72h No PFA No Flavo
+shortLabel Exp1 72h D-NT2 No PFA No Flavo 
 longLabel 72h No PFA No Flavo
 	 
 track 72h-No-PFA-No-Flavo_FW
@@ -245,7 +245,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 2
 visibility full
-shortLabel 72h PFA No Flavo
+shortLabel Exp1 72h D-NT2 PFA No Flavo
 longLabel 72h PFA No Flavo
 	 
 track 72h-PFA-No-Flavo_FW
@@ -283,7 +283,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 3
 visibility full
-shortLabel Mock Flavo 5’
+shortLabel Exp1 Mock D-NT2 Flavo 5
 longLabel Mock Flavo  5’
 	 
 track Mock-Flavo-5’_FW
@@ -321,7 +321,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 3
 visibility full
-shortLabel 12h Flavo 5’
+shortLabel Exp1 12h D-NT2 Flavo 5
 longLabel 12h Flavo 5’
 	 
 track 12h-Flavo-5’_FW
@@ -361,7 +361,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 3
 visibility full
-shortLabel 72h PFA Flavo 5’
+shortLabel Exp1 72h D-NT2 PFA Flavo 5 
 longLabel 72h PFA Flavo 5’
 	 
 track 72h-PFA-Flavo-5’_FW
@@ -400,7 +400,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 3
 visibility full
-shortLabel 72h No PFA Flavo 5’
+shortLabel Exp1 72h D-NT2 No PFA Flavo 5 
 longLabel 72h No PFA Flavo 5’
 	 
 track 72h-No-PFA-Flavo-5’_FW
@@ -438,7 +438,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 3
 visibility full
-shortLabel 12h No Flavo 5’
+shortLabel Exp1 12h D-NT2 No Flavo 5 
 longLabel 12h No Flavo 5’
 	 
 track 12h-No-Flavo-5’_FW
@@ -476,7 +476,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 3
 visibility full
-shortLabel 72h No PFA No Flavo 5’
+shortLabel Exp1 72h D-NT2 No PFA No Flavo 5 
 longLabel 72h No PFA No Flavo 5’
 	 
 track 72h-No-PFA-No-Flavo-5’_FW
@@ -514,7 +514,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 4
 visibility full
-shortLabel WT 
+shortLabel Exp2 96h D-NT2 WT 
 longLabel WT 
 	 
 track WT_FW
@@ -552,7 +552,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 4
 visibility full
-shortLabel N1
+shortLabel Exp2 96h D-NT2 N1
 longLabel N1 
 	 
 track N1_FW
@@ -590,7 +590,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 4
 visibility full
-shortLabel NB
+shortLabel Exp2 96h D-NT2 NB
 longLabel NB
 	 
 track NB_FW
@@ -628,7 +628,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 4
 visibility full
-shortLabel N2
+shortLabel Exp2 96h D-NT2 N2
 longLabel N2
 	 
 track N2_FW
@@ -666,7 +666,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 5
 visibility full
-shortLabel WT Flavo
+shortLabel Exp2 96h D-NT2 WT Flavo
 longLabel WT Flavo
 	 
 track WT-Flavo_FW
@@ -704,7 +704,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 5
 visibility full
-shortLabel N1 Flavo
+shortLabel Exp2 96h D-NT2 N1 Flavo
 longLabel N1 Flavo
 	 
 track N1-Flavo_FW
@@ -742,7 +742,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 5
 visibility full
-shortLabel NB Flavo
+shortLabel Exp2 96h D-NT2 NB Flavo
 longLabel NB Flavo
 	 
 track NB-Flavo_FW
@@ -780,7 +780,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 5
 visibility full
-shortLabel N2 Flavo
+shortLabel Exp2 96h D-NT2 N2 Flavo
 longLabel N2 Flavo
 	 
 track N2-Flavo_FW
@@ -819,7 +819,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 5
 visibility full
-shortLabel WT No GFP
+shortLabel Exp2 96h D-NT2 WT No GFP 
 longLabel WT No GFP
 	 
 track WT-No-GFP_FW
@@ -857,7 +857,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 5
 visibility full
-shortLabel WT No GFP Flavo
+shortLabel Exp2 96h D-NT2 WT No GFP Flavo
 longLabel WT No GFP Flavo
 	 
 track WT-No-GFP-Flavo_FW
@@ -895,7 +895,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel WT 5
+shortLabel Exp2 96h D-NT2 WT 5 
 longLabel WT 5
 	 
 track WT-5_FW
@@ -933,7 +933,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel N1 5
+shortLabel Exp2 96h D-NT2 N1 5 
 longLabel N1 5
 	 
 track N1-5_FW
@@ -971,7 +971,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel NB 5
+shortLabel Exp2 96h D-NT2 NB 5 
 longLabel NB 5
 	 
 track NB-5_FW
@@ -1009,7 +1009,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel N2 5
+shortLabel Exp2 96h D-NT2 N2 5 
 longLabel N2 5
 	 
 track N2-5_FW
@@ -1047,7 +1047,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel WT Flavo 5
+shortLabel Exp2 96h D-NT2 WT Flavo 5 
 longLabel WT Flavo 5
 	 
 track WT-Flavo-5_FW
@@ -1085,7 +1085,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel N1 Flavo 5
+shortLabel Exp2 96h D-NT2 N1 Flavo 5 
 longLabel N1 Flavo 5
 	 
 track N1-Flavo-5_FW
@@ -1123,7 +1123,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel NB Flavo 5
+shortLabel Exp2 96h D-NT2 NB Flavo 5 
 longLabel NB Flavo 5
 	 
 track NB-Flavo-5_FW
@@ -1161,7 +1161,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel N2 Flavo 5
+shortLabel Exp2 96h D-NT2 N2 Flavo 5 
 longLabel N2 Flavo 5
 	 
 track N2-Flavo-5_FW
@@ -1199,7 +1199,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel WT No GFP 5
+shortLabel Exp2 96h D-NT2 WT No GFP 5 
 longLabel WT No GFP 5
 	 
 track WT-No-GFP-5_FW
@@ -1237,7 +1237,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 6
 visibility full
-shortLabel WT No GFP Flavo 5
+shortLabel Exp2 96h D-NT2 WT No GFP Flavo 5 
 longLabel WT No GFP Flavo 5
 	 
 track WT-No-GFP-Flavo-5_FW
@@ -1276,7 +1276,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 7
 visibility full
-shortLabel IE2F Ctrl
+shortLabel Exp3 96h D-NT2 IE2F Ctrl
 longLabel IE2F Ctrl
 	 
 track IE2F-Ctrl_FW
@@ -1314,7 +1314,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 7
 visibility full
-shortLabel IE2F dTAG
+shortLabel Exp3 96h D-NT2 IE2F dTAG
 longLabel IE2F dTAG
 	 
 track IE2F-dTAG_FW
@@ -1352,7 +1352,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 7
 visibility full
-shortLabel IE2F Ctrl Flavo
+shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo
 longLabel IE2F Ctrl Flavo
 	 
 track IE2F-Ctrl-Flavo_FW
@@ -1390,7 +1390,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 7
 visibility full
-shortLabel IE2F dTAG Flavo
+shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo
 longLabel IE2F dTAG Flavo
 	 
 track IE2F-dTAG-Flavo_FW
@@ -1428,7 +1428,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 7
 visibility full
-shortLabel UL87HF Ctrl
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl
 longLabel UL87HF Ctrl
 	 
 track UL87HF-Ctrl_FW
@@ -1466,7 +1466,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 7
 visibility full
-shortLabel UL87HF dTAG
+shortLabel Exp3 96h D-NT2 UL87HF dTAG
 longLabel UL87HF dTAG
 	 
 track UL87HF-dTAG_FW
@@ -1504,7 +1504,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel UL87HF Ctrl Flavo
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo
 longLabel UL87HF Ctrl Flavo
 	 
 track UL87HF-Ctrl-Flavo_FW
@@ -1542,7 +1542,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel UL87HF dTAG Flavo
+shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo
 longLabel UL87HF dTAG Flavo
 	 
 track UL87HF-dTAG-Flavo_FW
@@ -1580,7 +1580,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel IE2F Ctrl 5
+shortLabel Exp3 96h D-NT2 IE2F Ctrl 5 
 longLabel IE2F Ctrl 5
 	 
 track IE2F-Ctrl-5_FW
@@ -1618,7 +1618,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel IE2F dTAG 5
+shortLabel Exp3 96h D-NT2 IE2F dTAG 5 
 longLabel IE2F dTAG 5
 	 
 track IE2F-dTAG-5_FW
@@ -1656,7 +1656,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel IE2F Ctrl Flavo 5
+shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo 5 
 longLabel IE2F Ctrl Flavo 5
 	 
 track IE2F-Ctrl-Flavo-5_FW
@@ -1694,7 +1694,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel IE2F dTAG Flavo 5
+shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo 5 
 longLabel IE2F dTAG Flavo 5
 	 
 track IE2F-dTAG-Flavo-5_FW
@@ -1732,7 +1732,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel UL87HF Ctrl 5
+shortLabel xp3 96h D-NT2 UL87HF Ctrl 5
 longLabel UL87HF Ctrl 5
 	 
 track UL87HF-Ctrl-5_FW
@@ -1770,7 +1770,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel UL87HF dTAG 5
+shortLabel Exp3 96h D-NT2 UL87HF dTAG 5
 longLabel UL87HF dTAG 5
 	 
 track UL87HF-dTAG-5_FW
@@ -1808,7 +1808,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel UL87HF Ctrl Flavo 5
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo 5 
 longLabel UL87HF Ctrl Flavo 5
 	 
 track UL87HF-Ctrl-Flavo-5_FW
@@ -1846,7 +1846,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 8
 visibility full
-shortLabel UL87HF dTAG Flavo 5
+shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo 5 
 longLabel UL87HF dTAG Flavo 5
 	 
 track UL87HF-dTAG-Flavo-5_FW
@@ -2235,7 +2235,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 9
 visibility full
-shortLabel Exp1 96h HFF UL87HF Ctrl Flavo
+shortLabel 96h HFF UL87HF Ctrl Flavo
 longLabel Exp1 96h UL87HF Flavo
 
 track Exp1_96h_UL87HF_Flavo_FW
