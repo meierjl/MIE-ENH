@@ -2398,9 +2398,9 @@ track Mock1_FW
 parent Mock1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASe	q/Sample1.FW.bw
-longLabel RNASeq Mock1
-shortLabel RNASeq Mock1
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample1.FW.bw
+longLabel RNASeq Mock 1
+shortLabel RNASeq Mock 1
 negateValues off
 color 153,58,29
 altColor 153,58,29
