@@ -2386,7 +2386,7 @@ maxHeightPixels 128:128:16
 
 ##########
 	 
-track RNASeq-Mock1
+track Mock1
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2394,8 +2394,8 @@ visibility full
 shortLabel RNASeq-Mock1
 longLabel RNASeq-Mock1
 	 
-track RNASeq-Mock1_FW
-parent RNASeq-Mock1
+track Mock1_FW
+parent Mock1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample1.FW.bw
@@ -2408,8 +2408,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-Mock1_RV
-parent RNASeq-RNASeq-Mock1
+track Mock1_RV
+parent Mock1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample1.RV.bw
@@ -2423,7 +2423,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############		 
-track RNASeq-Mock2
+track Mock2
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2431,8 +2431,8 @@ visibility full
 shortLabel RNASeq-Mock2
 longLabel RNASeq-Mock2
 	 
-track RNASeq-Mock2_FW
-parent RNASeq-Mock2
+track Mock2_FW
+parent Mock2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample2.FW.bw
@@ -2445,8 +2445,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-Mock2_RV
-parent RNASeq-Mock2
+track Mock2_RV
+parent Mock2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample2.RV.bw
@@ -2460,16 +2460,16 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############		 
-track RNASeq-WT1
+track WT1
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel WT1
-longLabel WT1
+shortLabel RNASeq-WT1
+longLabel RNASeq-WT1
 	 
-track RNASeq-WT1_FW
-parent RNASeq-WT1
+track WT1_FW
+parent WT1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample3.FW.bw
@@ -2482,8 +2482,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-WT1_RV
-parent RNASeq-WT1
+track WT1_RV
+parent WT1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample3.RV.bw
@@ -2497,7 +2497,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############		 
-track RNASeq-WT2
+track WT2
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2505,8 +2505,8 @@ visibility full
 shortLabel RNASeq-WT2
 longLabel RNASeq-WT2
 	 
-track RNASeq-WT2_FW
-parent RNASeq-WT2
+track WT2_FW
+parent WT2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample4.FW.bw
@@ -2519,8 +2519,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-WT2_RV
-parent RNASeq-WT2
+track WT2_RV
+parent WT2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample4.RV.bw
@@ -2534,7 +2534,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############		 
-track RNASeq-WT-PFA1
+track WT-PFA1
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2542,8 +2542,8 @@ visibility full
 shortLabel RNASeq-WT-PFA1
 longLabel RNASeq-WT-PRA1
 	 
-track RNASeq-WT-PFA1_FW
-parent RNASeq-WT-PFA1
+track WT-PFA1_FW
+parent WT-PFA1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample5.FW.bw
@@ -2556,8 +2556,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-WT-PFA1_RV
-parent RNASeq-WT-PFA1
+track WT-PFA1_RV
+parent WT-PFA1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample5.RV.bw
@@ -2571,7 +2571,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
-track RNASeq-WT-PFA2
+track WT-PFA2
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2579,8 +2579,8 @@ visibility full
 shortLabel RNASeq-WT-PFA2
 longLabel RNASeq-WT-PRA2
 	 
-track RNASeq-WT-PFA2_FW
-parent RNASeq-WT-PFA2
+track WT-PFA2_FW
+parent WT-PFA2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample6.FW.bw
@@ -2593,8 +2593,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-WT-PFA2_RV
-parent RNASeq-WT-PFA2
+track WT-PFA2_RV
+parent WT-PFA2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample6.RV.bw
@@ -2609,7 +2609,7 @@ maxHeightPixels 128:128:16
 
 #############		 
 
-track RNASeq-N1-1
+track N1-1
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2617,8 +2617,8 @@ visibility full
 shortLabel RNASeq-N1-1
 longLabel RNASeq-N1-1
 	 
-track RNASeq-N1-1_FW
-parent RNASeq-N1-1
+track N1-1_FW
+parent N1-1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample7.FW.bw
@@ -2631,8 +2631,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-N1-1_RV
-parent RNASeq-N1-1
+track N1-1_RV
+parent N1-1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample7.RV.bw
@@ -2646,7 +2646,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############	 
-track RNASeq-N1-2
+track N1-2
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2654,8 +2654,8 @@ visibility full
 shortLabel RNASeq-N1-2
 longLabel RNASeq-N1-2
 	 
-track RNASeq-N1-2_FW
-parent RNASeq-N1-2
+track N1-2_FW
+parent N1-2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample8.FW.bw
@@ -2668,8 +2668,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-N1-2_RV
-parent RNASeq-N1-2
+track N1-2_RV
+parent N1-2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample8.RV.bw
@@ -2683,7 +2683,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
-track RNASeq-NB-1
+track NB-1
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2691,8 +2691,8 @@ visibility full
 shortLabel RNASeq-NB-1
 longLabel RNASeq-NB-1
 	 
-track RNASeq-NB-1_FW
-parent RNASeq-NB-1
+track NB-1_FW
+parent NB-1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample9.FW.bw
@@ -2705,8 +2705,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-NB-1_RV
-parent RNASeq-NB-1
+track NB-1_RV
+parent NB-1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample9.RV.bw
@@ -2720,7 +2720,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
-track RNASeq-NB-2
+track NB-2
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2728,8 +2728,8 @@ visibility full
 shortLabel RNASeq-NB-2
 longLabel RNASeq-NB-2
 	 
-track RNASeq-NB-2_FW
-parent RNASeq-NB-2
+track NB-2_FW
+parent NB-2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample10.FW.bw
@@ -2742,8 +2742,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-NB-2_RV
-parent RNASeq-NB-2
+track NB-2_RV
+parent NB-2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample10.RV.bw
@@ -2758,7 +2758,7 @@ maxHeightPixels 128:128:16
 
 #############
 
-track RNASeq-CK-1
+track CK-1
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2766,8 +2766,8 @@ visibility full
 shortLabel RNASeq-CK-1
 longLabel RNASeq-CK-1
 	 
-track RNASeq-CK-1_FW
-parent RNASeq-CK-1
+track CK-1_FW
+parent CK-1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample11.FW.bw
@@ -2780,8 +2780,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-CK-1_RV
-parent RNASeq-CK-1
+track CK-1_RV
+parent CK-1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample11.RV.bw
@@ -2795,7 +2795,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
-track RNASeq-CK-2
+track CK-2
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
@@ -2803,8 +2803,8 @@ visibility full
 shortLabel RNASeq-CK-2
 longLabel RNASeq-CK-2
 	 
-track RNASeq-CK-2_FW
-parent RNASeq-CK-2
+track CK-2_FW
+parent CK-2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample12.FW.bw
@@ -2817,8 +2817,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track RNASeq-CK-2_RV
-parent RNASeq-CK-2
+track CK-2_RV
+parent CK-2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/RNASeq/Sample12.RV.bw
