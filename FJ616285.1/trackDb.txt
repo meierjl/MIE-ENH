@@ -1885,7 +1885,7 @@ type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
 priority 9
 visibility full
-shortLabel 96h IE2
+shortLabel 96h HFF WT Ctrl
 longLabel PRO-Seq in DMSO-treated HFF infected 4 hours with HCMV strain Towne
 
 track DMSO_CMV_WT_FW
@@ -1924,7 +1924,7 @@ type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
 priority 9
 visibility full
-shortLabel 96h IE2 dTAG 
+shortLabel 96h HFF WT dTAG 
 longLabel PRO-Seq in HFF infected 96 hours with HCMV strain Towne and treated for last 6 hours with dFK
 
 track DMSO_CMV_WT_dFK_FW
@@ -1963,7 +1963,7 @@ type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
 priority 9
 visibility full
-shortLabel 96h IE2F
+shortLabel 96h HFF IE2F Ctrl
 longLabel PRO-Seq in DMSO-treated HFF infected 96 hours with HCMV strain Towne-IE2-FKBP
 
 track DMSO_CMV_IE2_FKBP_FW
@@ -2003,7 +2003,7 @@ type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
 priority 9
 visibility full
-shortLabel 96h IE2F dTAG
+shortLabel 96h HFF IE2F dTAG
 longLabel RO-Seq in DMSO-treated HFF infected 96 hours with HCMV strain Towne-IE2-FKBP
 
 track DMSO_CMV_IE2_FKBP_dFK_FW
@@ -2042,7 +2042,7 @@ type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
 priority 9
 visibility full
-shortLabel 96h IE2 Flavo
+shortLabel 96h HFF WT Ctrl Flavo
 longLabel PRO-Seq in Flavo-treated HFF infected 96 hours with HCMV strain Towne
 
 track Flavo_CMV_WT_FW
@@ -2081,7 +2081,7 @@ type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
 priority 9
 visibility full
-shortLabel 96h IE2 Flavo dTAG 
+shortLabel 96h HFF WT dTAG Flavo 
 longLabel PRO-Seq in HFF infected 96 hours with HCMV strain Towne and treated for last 6 hours with dFK
 
 track Flavo_CMV_WT_dFK_FW
@@ -2120,7 +2120,7 @@ type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
 priority 9
 visibility full
-shortLabel 96h IE2F Flavo
+shortLabel 96h HFF IE2F Ctrl Flavo
 longLabel PRO-Seq in Flavo-treated HFF infected 96 hours with HCMV strain Towne-IE2-FKBP
 
 track Flavo_CMV_IE2_FKBP_FW
@@ -2159,7 +2159,7 @@ type bigWig 0 1000
 group IE2-FKBP-PRO-Seq
 priority 9
 visibility full
-shortLabel 96h IE2F Flavo dTAG
+shortLabel 96h HFF IE2F dTAG Flavo
 longLabel PRO-Seq in Flavo-treated HFF infected 96 hours with HCMV strain Towne-IE2-FKBP
 
 track Flavo_CMV_IE2_FKBP_dFK_FW
@@ -2197,7 +2197,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 9
 visibility full
-shortLabel IE2 Flavo Ctrl 5
+shortLabel 96h HFF WT Flavo Ctrl 5
 longLabel IE2 Flavo Ctrl 5
 	 
 track IE2-Flavo-Ctrl-5_FW
@@ -2235,7 +2235,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 9
 visibility full
-shortLabel Exp1 96h UL87HF Flavo
+shortLabel Exp1 96h HFF UL87HF Ctrl Flavo
 longLabel Exp1 96h UL87HF Flavo
 
 track Exp1_96h_UL87HF_Flavo_FW
@@ -2274,7 +2274,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 9
 visibility full
-shortLabel Exp1 96h UL87HF Flavo dTAG
+shortLabel 96h HFF UL87HF dTAG Flavo
 longLabel Exp1 96h UL87HF Flavo dTAG
 
 track Exp1_96h_UL87HF_Flavo_dTAG_FW
@@ -2314,7 +2314,7 @@ type bigWig 0 1000
 group proseq-procap
 priority 10
 visibility full
-shortLabel UL87-No-dTAG-Flavo-Exp2-5
+shortLabel 96h HFF UL87HF Ctrl Flavo 5
 longLabel UL87-No-dTAG-Flavo-Exp2-5
 
 track UL87-No-dTAG-Flavo-Exp2-5-FW
@@ -2353,7 +2353,7 @@ type bigWig 0 1000
 group proseq-procap
 priority 10
 visibility full
-shortLabel UL87F-6h-dTag-Flavo-Exp2-5
+shortLabel 96h HFF UL87HF dTAG Flavo 5
 longLabel UL87F-6h-dTag-Flavo-Exp2-5
 
 track UL87F-6h-dTag-Flavo-Exp2-5-FW
