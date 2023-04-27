@@ -2402,8 +2402,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq Mock 1
 shortLabel RNASeq Mock 1
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2416,8 +2416,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq Mock 1
 shortLabel RNASeq Mock 1
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2439,8 +2439,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq Mock 2
 shortLabel RNASeq Mock 2
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2453,8 +2453,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq Mock 2
 shortLabel RNASeq Mock 2
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2476,8 +2476,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq WT 1
 shortLabel RNASeq WT 1
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2490,8 +2490,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq WT 1
 shortLabel RNASeq WT 1
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2513,8 +2513,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq WT 2
 shortLabel RNASeq WT 2
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2527,8 +2527,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq WT 2
 shortLabel RNASeq WT 2
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2550,8 +2550,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq WT PFA 1
 shortLabel RNASeq WT PFA 1
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2564,8 +2564,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq WT PFA 1
 shortLabel RNASeq WT PFA 1
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2587,8 +2587,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq WT PFA 2
 shortLabel RNASeq WT PFA 2
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2601,8 +2601,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq WT PFA 2
 shortLabel RNASeq WT PFA 2
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2625,8 +2625,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq N1 1
 shortLabel RNASeq N1 1
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2639,8 +2639,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq N1 1
 shortLabel RNASeq N1 1
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2662,8 +2662,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq N1 2
 shortLabel RNASeq N1 2
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2676,8 +2676,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq N1 2
 shortLabel RNASeq N1 2
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2699,8 +2699,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq NB 1
 shortLabel RNASeq NB 1
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2713,8 +2713,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq NB 1
 shortLabel RNASeq NB 1
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2736,8 +2736,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq NB 2
 shortLabel RNASeq NB 2
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2750,8 +2750,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq NB 2
 shortLabel RNASeq NB 2
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2774,8 +2774,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq CK 1
 shortLabel RNASeq CK 1
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2788,8 +2788,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq CK 1
 shortLabel RNASeq CK 1
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2811,8 +2811,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq CK 2
 shortLabel RNASeq CK 2
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -2825,8 +2825,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/m
 longLabel RNASeq CK 2
 shortLabel RNASeq CK 2
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 47,201,255
+altColor 47,201,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
