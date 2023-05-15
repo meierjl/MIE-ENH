@@ -3212,7 +3212,83 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
- 
+
+track WTPFAExp4
+compositeTrack on
+type bigWig 0 1000
+priority 4
+visibility full
+shortLabel Exp4 96h D-NT2 WT PFA 
+longLabel WTPFAExp4
+	 
+track WTPFAExp4_FW
+parent WTPFAExp4
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTPFAExp4-dedup-FW-FJ616285.1.bw
+longLabel Exp4 96h D-NT2 WT PFA
+shortLabel Exp4 96h D-NT2 WT PFA
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track WTPFAExp4_RV
+parent WTPFAExp4
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTPFAExp4-dedup-RV-FJ616285.1.bw
+longLabel Exp4 96h D-NT2 WT PFA
+shortLabel Exp4 96h D-NT2 WT PFA
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track WTPFAExp4-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 5
+visibility full
+shortLabel Exp4 96h D-NT2 WT PFA Flavo
+longLabel WTPFAExp4 Flavo
+	 
+track WTPFAExp4-Flavo_FW
+parent WTPFAExp4-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTPFAExp4-Flavo-dedup-FW-FJ616285.1.bw
+longLabel Exp4 96h D-NT2 WT PFA Flavo
+shortLabel Exp4 96h D-NT2 WT PFA Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track WTPFAExp4-Falvo_RV
+parent WTPFAExp4-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTPFAExp4-Flavo-dedup-RV-FJ616285.1.bw
+longLabel Exp4 96h D-NT2 WT PFA Flavo
+shortLabel Exp4 96h D-NT2 WT PFA Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
 
 
         ##################################################
