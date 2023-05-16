@@ -3301,7 +3301,7 @@ track WTExp4-5_FW
 parent WTExp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/WTExp4-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT 5 Prime
 shortLabel Exp4 96h D-NT2 WT 5 Prime
 negateValues off
@@ -3315,7 +3315,7 @@ track WTExp4-5_RV
 parent WTExp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/WTExp4-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT 5 Prime
 shortLabel Exp4 96h D-NT2 WT 5 Prime
 negateValues on
@@ -3339,7 +3339,7 @@ track CKExp4-5_FW
 parent CKExp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/CKExp4-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/CKExp4-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 CK 5 Prime
 shortLabel Exp4 96h D-NT2 CK 5 Prime
 negateValues off
@@ -3353,7 +3353,7 @@ track CKExp4-5_RV
 parent CKExp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/CKExp4-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/CKExp4-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 CK 5 Prime
 shortLabel Exp4 96h D-NT2 CK 5 Prime
 negateValues on
@@ -3377,7 +3377,7 @@ track NB3Exp4-5_FW
 parent NB3Exp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/NB3Exp4-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/NB3Exp4-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 NB3 5 Prime
 shortLabel Exp4 96h D-NT2 NB3 5 Prime
 negateValues off
@@ -3391,7 +3391,7 @@ track NB3Exp4-5_RV
 parent NB3Exp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/NB3Exp4-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/NB3Exp4-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 NB3 5 Prime
 shortLabel Exp4 96h D-NT2 NB3 5 Prime
 negateValues on
@@ -3415,7 +3415,7 @@ track WTExp4-Flavo-5_FW
 parent WTExp4-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-Flavo-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/WTExp4-Flavo-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 WT Flavo 5 Prime
 negateValues off
@@ -3429,7 +3429,7 @@ track WTExp4-Falvo-5_RV
 parent WTExp4-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTExp4-Flavo-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/WTExp4-Flavo-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 WT Flavo 5 Prime
 negateValues on
@@ -3453,7 +3453,7 @@ track CKExp4-Flavo-5_FW
 parent CKExp4-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/CKExp4-Flavo-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/CKExp4-Flavo-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 CK Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 CK Flavo 5 Prime
 negateValues off
@@ -3467,7 +3467,7 @@ track CKExp4-Falvo-5_RV
 parent CKExp4-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/CKExp4-Flavo-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/CKExp4-Flavo-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 CK Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 CK Flavo 5 Prime
 negateValues on
@@ -3491,7 +3491,7 @@ track NB3Exp4-Flavo-5_FW
 parent NB3Exp4-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/NB3Exp4-Flavo-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/NB3Exp4-Flavo-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 NB3 Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 NB3 Flavo 5 Prime
 negateValues off
@@ -3505,7 +3505,7 @@ track NB3Exp4-Falvo-5_RV
 parent NB3Exp4-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/NB3Exp4-Flavo-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/NB3Exp4-Flavo-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 NB3 Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 NB3 Flavo 5 Prime
 negateValues on
@@ -3514,7 +3514,6 @@ altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-
 #############
 	 
 track IE2FExp4-Ctrl-5
@@ -3529,7 +3528,7 @@ track IE2FExp4-Ctrl-5_FW
 parent IE2FExp4-Ctrl-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-No-Flavo-Ctrl-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/IE2FExp4-No-Flavo-Ctrl-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F Ctrl 5 Prime
 shortLabel Exp4 96h D-NT2 IE2F Ctrl 5 Prime
 negateValues off
@@ -3543,7 +3542,7 @@ track IE2FExp4-Ctrl-5_RV
 parent IE2FExp4-Ctrl-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-No-Flavo-Ctrl-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/IE2FExp4-No-Flavo-Ctrl-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F Ctrl 5 Prime
 shortLabel Exp4 96h D-NT2 IE2F Ctrl 5 Prime
 negateValues on
@@ -3567,7 +3566,7 @@ track IE2FExp4-dTAG-5_FW
 parent IE2FExp4-dTAG-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-No-Flavo-dTAG-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/IE2FExp4-No-Flavo-dTAG-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F dTAG 5 Prime
 shortLabel Exp4 96h D-NT2 IE2F dTAG 5 Prime
 negateValues off
@@ -3581,7 +3580,7 @@ track IE2FExp4-dTAG-5_RV
 parent IE2FExp4-dTAG-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-No-Flavo-dTAG-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/IE2FExp4-No-Flavo-dTAG-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F dTAG 5 Prime
 shortLabel Exp4 96h D-NT2 IE2F dTAG 5 Prime
 negateValues on
@@ -3605,7 +3604,7 @@ track IE2FExp4-Ctrl-Flavo-5_FW
 parent IE2FExp4-Ctrl-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-Flavo-Ctrl-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/IE2FExp4-Flavo-Ctrl-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F Ctrl Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 IE2F Ctrl Flavo 5 Prime
 negateValues off
@@ -3619,7 +3618,7 @@ track IE2FExp4-Ctrl-Flavo-5_RV
 parent IE2FExp4-Ctrl-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-Flavo-Ctrl-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/IE2FExp4-Flavo-Ctrl-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F Ctrl Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 IE2F Ctrl Flavo 5 Prime
 negateValues on
@@ -3643,7 +3642,7 @@ track IE2FExp4-dTAG-Flavo-5_FW
 parent IE2FExp4-dTAG-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-Flavo-dTAG-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/IE2FExp4-Flavo-dTAG-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F dTAG Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 IE2F dTAG Flavo 5 Prime
 negateValues off
@@ -3657,7 +3656,7 @@ track IE2FExp4-dTAG-Flavo-5_RV
 parent IE2FExp4-dTAG-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/IE2FExp4-Flavo-dTAG-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/IE2FExp4-Flavo-dTAG-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 IE2F dTAG Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 IE2F dTAG Flavo 5 Prime
 negateValues on
@@ -3681,7 +3680,7 @@ track WTPFAExp4-5_FW
 parent WTPFAExp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTPFAExp4-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/WTPFAExp4-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT PFA 5 Prime
 shortLabel Exp4 96h D-NT2 WT PFA 5 Prime
 negateValues off
@@ -3695,7 +3694,7 @@ track WTPFAExp4-5_RV
 parent WTPFAExp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTPFAExp4-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/WTPFAExp4-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT PFA 5 Prime
 shortLabel Exp4 96h D-NT2 WT PFA 5 Prime
 negateValues on
@@ -3719,7 +3718,7 @@ track WTPFAExp4-Flavo-5_FW
 parent WTPFAExp4-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTPFAExp4-Flavo-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/WTPFAExp4-Flavo-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT PFA Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 WT PFA Flavo 5 Prime
 negateValues off
@@ -3733,7 +3732,7 @@ track WTPFAExp4-Falvo-5_RV
 parent WTPFAExp4-Flavo-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4/WTPFAExp4-Flavo-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/DNT2-PRO-SeqExp4-5prime/WTPFAExp4-Flavo-dedup-RV-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 WT PFA Flavo 5 Prime
 shortLabel Exp4 96h D-NT2 WT PFA Flavo 5 Prime
 negateValues on
@@ -3744,6 +3743,8 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+
+
 
 
 
